@@ -10,7 +10,7 @@ body
 	border-radius: 0px;
 	border:0px;
 	height: 20px;
-	background-color: red;
+	background-color: #41c7f4;
 
 }
 
@@ -21,11 +21,12 @@ body
 
 #bs-example-navbar-collapse-1
 {
-background-color: red;
+background-color:#41c7f4;
 }
 
-#Chicken
+#content
 {
 	background-color: lightgray;
 	margin:10px;
+	padding-top:70px;
 }
